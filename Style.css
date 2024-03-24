@@ -1,0 +1,30 @@
+
+.main{
+    margin: 20px;
+    height: 1000px;
+    width: 800px;
+}
+.header{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    height: 300px;
+    width: 700px;
+}
+.header>h1{
+    font-size: 30px;
+}
+.img{
+    margin: 20px;
+    padding: 20px;
+}
+.image{
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+}
+.footer{
+    margin: 20px;
+    padding: 20px;
+}
